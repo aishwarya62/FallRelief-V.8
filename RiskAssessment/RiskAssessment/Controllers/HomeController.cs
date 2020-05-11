@@ -12,11 +12,7 @@ namespace RiskAssessment.Controllers
 {
     public class HomeController : Controller
     {
-        public ActionResult testflaticon()
-        {
-            return View();
-
-        }
+       
         public ActionResult Index()
         {
             return View();
